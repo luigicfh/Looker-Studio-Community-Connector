@@ -1,0 +1,15 @@
+{
+  "timeZone": "America/El_Salvador",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "Twilio SMS Sent Connector",
+    "logoUrl": "http://localhost/",
+    "company": "Revelo",
+    "companyUrl": "http://localhost/",
+    "supportUrl": "http://localhost/",
+    "description": "A Looker Studio connector for fetching data from Twilio.",
+    "addOnUrl": "http://localhost/"
+  }
+}

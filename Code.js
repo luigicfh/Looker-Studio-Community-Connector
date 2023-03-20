@@ -8,12 +8,12 @@ function getAuthType() {
 }
 
 // Si devuelve true los mensajes de errores se muestran en la interfaz de Looker Studio.
-// Si deveulve false el usuario no obtiene ningún contexto del error.
+// Si devuelve false el usuario no obtiene ningún contexto del error.
 function isAdminUser() {
   return true;
 }
 
-// Establece que información debe ser brindada por el usuario para que el conector obtega los datos de una API externa.
+// Establece que información debe ser brindada por el usuario para que el conector obtenga los datos de una API externa.
 function getConfig() {
   const config = cc.getConfig();
   config
